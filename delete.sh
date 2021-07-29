@@ -1,3 +1,4 @@
 #!/bin/bash
 kubectl delete -k ./
-./rmdir.sh
+rm -rf /var/mysql
+rm -rf /var/wp

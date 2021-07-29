@@ -24,6 +24,7 @@ spec:
   resources:
     requests:
       storage: 100Mi
+    storageClassName: local-storage
 ---
 apiVersion: apps/v1
 kind: Deployment

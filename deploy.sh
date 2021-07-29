@@ -1,3 +1,4 @@
 #!/bin/bash
-./mkdir.sh
+mkdir /var/mysql
+mkdir /var/wp
 kubectl apply -k ./
