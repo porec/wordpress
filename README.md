@@ -14,3 +14,9 @@ chmod 777 deploy.sh delete.sh
 ```
 ./deploy.sh
 ```
+
+To delete execute:
+
+```
+./delete.sh
+```
