@@ -3,7 +3,7 @@
 To deploy execute:
 
 ```
-git clone
+git clone https://github.com/porec/wordpress.git
 ```
 ```
 cd wordpress
