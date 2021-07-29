@@ -23,7 +23,7 @@ spec:
     - ReadWriteOnce
   resources:
     requests:
-      storage: 100Mi
+      storage: 1Gi
   storageClassName: local-storage
 ---
 apiVersion: apps/v1
